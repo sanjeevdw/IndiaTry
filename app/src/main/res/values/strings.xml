@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IndiaTry</string>
+    <string name="facebook_application_id" translatable="false">328385824606599</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb328385824606599</string>
+    <string name="sign_out">Sign out</string>
+    <string name="button_login">LOGIN</string>
+    <string name="tv_login_facebook_google">LOGIN with FaceBook and Google</string>
+    <string name="header_name">India Try</string>
+    <string name="home">Home</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="about_industry">About Industry</string>
+    <string name="et_email">Email address</string>
+    <string name="et_password">Password</string>
+    <string name="tv_forgot_password">FORGOT PASSWORD?</string>
+    <string name="bt_login">Login</string>
+    <string name="bt_google_signin">Sign in with Google</string>
+    <string name="tv_privacy_terms">By Continuing, you agree with Indiatry\'s Terms and Privacy Policy</string>
+</resources>

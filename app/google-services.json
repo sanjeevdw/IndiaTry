@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "124759056036",
+    "firebase_url": "https://indiatry-86356.firebaseio.com",
+    "project_id": "indiatry-86356",
+    "storage_bucket": "indiatry-86356.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124759056036:android:17aa91f18d997357",
+        "android_client_info": {
+          "package_name": "com.example.android.indiatry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124759056036-d57g02dn2po93q0v4a2ju1h0s09fnco3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.indiatry",
+            "certificate_hash": "bec820d7635f31a4526411a371fbd9bd4f003c2c"
+          }
+        },
+        {
+          "client_id": "124759056036-fmqtv5ug8j11pbsskakoslnohe1b764p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5f4hrbCtDMzov3Sm64gi6D1uXknbmmqM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124759056036-fmqtv5ug8j11pbsskakoslnohe1b764p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
